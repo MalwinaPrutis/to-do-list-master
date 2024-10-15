@@ -1,7 +1,7 @@
 # To-do List Description
 The "To-Do List" application is a simple yet functional task list that allows users to create, edit, and delete tasks to manage daily activities. This project aims to help users organize their time and increase productivity.
 
-![Alt Text](To do list.gif)
+![Alt Text](./images/To%20do%20list.gif)
 
 ## Demo
 https://malwinaprutis.github.io/to-do-list-master/
