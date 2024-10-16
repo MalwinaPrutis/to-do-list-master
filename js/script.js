@@ -3,7 +3,7 @@
 
   let tasks = [
     { content: "masaż relaksacyjny", completed: false },
-    { content: "wycieczka rowerowa", completed: true },
+    { content: "wycieczka rowerowa", completed: true }
   ];
 
   const addNewItem = (newItemContent) => {
@@ -21,7 +21,7 @@
       i === taskIndex
         ? {
             ...task,
-            completed: !task.completed,
+            completed: !task.completed
           }
         : task
     );
